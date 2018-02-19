@@ -1,0 +1,11 @@
+
+/**
+* This is a interface of collection that it is able to iterate.
+* The interface has a iterator method.
+*/
+public interface Aggregate{
+    /*
+    * This is ...
+    */
+    public abstract Iterator iterator();
+}
